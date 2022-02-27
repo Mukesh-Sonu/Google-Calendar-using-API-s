@@ -1,1 +1,1 @@
-# This project uses Google calendar develope API to perform google calendar operations.
+# This project uses Google calendar developer API to perform google calendar operations.
